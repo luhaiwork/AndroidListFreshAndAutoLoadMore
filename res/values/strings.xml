@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">TestRequest</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_second">SecondActivity</string>
+    <string name="no_net_head">数据加载失败</string>
+    <string name="no_net_body">请检查您的手机是否联网</string>
+    <string name="no_data_head">这里空空如也</string>
+    <string name="no_data_order">亲，您还没下过订单，赶快去选购商品吧！</string>
+    <string name="no_data_body">请过会再来看看吧</string>
+    <!-- 无数据相关提示  end -->
+</resources>

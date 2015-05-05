@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="white">#FFFFFF</color>
+    <color name="black">#000000</color>
+    <color name="gold">#f66000</color>
+    <color name="dark_gray">#333333</color>
+	<color name="gray">#adadad</color>
+    <color name="text_dark">#333333</color>
+    <color name="text_medium">#666666</color>
+    <color name="text_light">#b2b2b2</color>
+    <color name="red">#ff0000</color>
+    <color name="transparent">#00000000</color>
+    <color name="background_all">#f0f3f5</color>
+    <!-- ListView FooterView的背景颜色 -->
+    <color name="footer_bg_normal">#cccccc</color>
+    <color name="footer_bg_press">#aaaaaa</color>
+    <color name="progress_bg">#00000000</color>
+    <color name="list_cache_color">#000000</color>
+    <!-- 提交订单 对话框 灰色文字颜色 -->
+    <color name="pop_gray_text">#999999</color>
+    <color name="popwindow_bg_black">#66000000</color>
+    <color name="green">#66CC33</color>
+    <color name="orange">#FF6600</color>
+    <color name="dilive_color">#ebebeb</color>
+    <color name="light_gray">#e5e5e5</color>
+    <color name="btn_text_disabled">#cdcdcd</color>
+    <color name="btn_text_abled">#66cc33</color>
+    <color name="gold_reply">#af874d</color>
+    <color name="lightblue">#0080fb</color>
+    <!-- 灰色字体颜色值 -->
+    <color name="gray_textcolor">#999999</color>
+    <!-- 图片背景填充色 -->
+    <color name="img_bg">#ededed</color>
+</resources>

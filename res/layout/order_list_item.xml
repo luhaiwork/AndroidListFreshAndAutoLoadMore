@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="wrap_content"
+    android:background="@drawable/normal_bg_sharp"
+    android:descendantFocusability="blocksDescendants"
+    android:paddingBottom="@dimen/small_space"
+    android:paddingLeft="@dimen/small_space"
+    android:paddingRight="0dp">
+
+    <TextView
+        android:id="@+id/tv_order_status_desc"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerVertical="true"
+        android:text="payoff_order_status"
+        android:textSize="@dimen/normal_textSize" />
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_toRightOf="@id/tv_order_status_desc"
+        android:id="@+id/btn_click"
+        android:text="btn" />
+
+</RelativeLayout>
